@@ -26,10 +26,6 @@ This project explores Bollywood movie genres, IMDb ratings, and relationships be
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <>
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebook to explore the analysis and recommendations.
+2. Run the Jupyter notebook to explore the analysis and recommendations.
